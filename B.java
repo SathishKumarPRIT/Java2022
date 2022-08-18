@@ -1,4 +1,4 @@
-class B{ 
+publi  class B{ 
 A4 obj; 
  B(A4 obj){ 
 this.obj=obj; 
