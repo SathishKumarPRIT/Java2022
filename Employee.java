@@ -1,4 +1,4 @@
-class Employee{ 
+public class Employee{ 
 float salary=40000; 
 } 
 class Programmer extends Employee{ 
